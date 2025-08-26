@@ -25,6 +25,9 @@ import remarkRehypeTufte from "./src/plugins/remarkRehype-tufte.ts";
 import rehypeTufte from "./src/plugins/rehype-tufte.ts";
 import rehypeHeadingAnchor from "./src/plugins/rehype-heading-anchor.ts";
 
+// Add vehicle support to the Prism.js syntax highlighter
+import "./src/plugins/prismjs-vehicle.js";
+
 // MathJax options:
 const MathJax = {
   // TeX Input Processor Options
