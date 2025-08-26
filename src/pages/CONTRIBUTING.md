@@ -202,6 +202,22 @@ print_string "Hello, World!\n"
 ```
 
 ````md
+<!-- This is a Vehicle code block -->
+
+```vehicle
+@property
+helloWorld : Bool
+helloWorld = forall x. x <= 0 or 0 <= x
+```
+````
+
+```vehicle
+@property
+helloWorld : Bool
+helloWorld = forall x. x <= 0 or 0 <= x
+```
+
+````md
 <!-- This is a fullwidth code block -->
 
 :::fullwidth
