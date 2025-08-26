@@ -14,6 +14,10 @@ All commands are run from the root of the project, from a terminal:
 | `npm run build`   | Build your production site to `./dist/`      |
 | `npm run preview` | Preview your build locally, before deploying |
 
+# Document Structure
+
+Each chapter should begin with an introduction to a problem and a high-level description of its solution. For instance, MNIST digit recognition and robustness verification. This introduction should then be followed by one section showing how this problem can be solved using one particular tool—e.g., CAISAR and Vehicle.
+
 # Markdown
 
 ## Document metadata
