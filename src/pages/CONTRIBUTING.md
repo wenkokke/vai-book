@@ -190,6 +190,18 @@ main = putStrLn "Hello, World!"
 ```
 
 ````md
+<!-- This is an OCaml code block -->
+
+```ocaml
+print_string "Hello, World!\n"
+```
+````
+
+```ocaml
+print_string "Hello, World!\n"
+```
+
+````md
 <!-- This is a fullwidth code block -->
 
 :::fullwidth
